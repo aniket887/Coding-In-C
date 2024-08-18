@@ -1,3 +1,3 @@
 # Coding-In-C
 
-basic to advance code of C language 
+basic to advance codes of C language 
